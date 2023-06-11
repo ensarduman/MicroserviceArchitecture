@@ -1,0 +1,12 @@
+/Users/mac/Documents/GitHub/MicroserviceSample/Common/obj/Debug/net7.0/Common.csproj.AssemblyReference.cache
+/Users/mac/Documents/GitHub/MicroserviceSample/Common/obj/Debug/net7.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/GitHub/MicroserviceSample/Common/obj/Debug/net7.0/Common.AssemblyInfoInputs.cache
+/Users/mac/Documents/GitHub/MicroserviceSample/Common/obj/Debug/net7.0/Common.AssemblyInfo.cs
+/Users/mac/Documents/GitHub/MicroserviceSample/Common/obj/Debug/net7.0/Common.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/GitHub/MicroserviceSample/Common/bin/Debug/net7.0/Common.deps.json
+/Users/mac/Documents/GitHub/MicroserviceSample/Common/bin/Debug/net7.0/Common.dll
+/Users/mac/Documents/GitHub/MicroserviceSample/Common/bin/Debug/net7.0/Common.pdb
+/Users/mac/Documents/GitHub/MicroserviceSample/Common/obj/Debug/net7.0/Common.dll
+/Users/mac/Documents/GitHub/MicroserviceSample/Common/obj/Debug/net7.0/refint/Common.dll
+/Users/mac/Documents/GitHub/MicroserviceSample/Common/obj/Debug/net7.0/Common.pdb
+/Users/mac/Documents/GitHub/MicroserviceSample/Common/obj/Debug/net7.0/ref/Common.dll
